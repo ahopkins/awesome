@@ -270,6 +270,7 @@
 - [Terraform](https://github.com/shuaibiyy/awesome-terraform#readme) - Tool for building, changing, and versioning infrastructure.
 - [Vapor](https://github.com/Cellane/awesome-vapor#readme) - Server-side development in Swift.
 - [Dash](https://github.com/Acrotrend/awesome-dash#readme) - Python web app framework.
+- [Sanic](https://github.com/mekicha/awesome-sanic#readme)
 
 
 ## Computer Science
